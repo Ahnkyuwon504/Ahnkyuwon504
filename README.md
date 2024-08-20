@@ -13,6 +13,18 @@
 
 - NLP, LLM, Data Science
 
+### 자격증
+
+- 정보처리기사
+- 데이터분석준전문가
+- SQL 개발자
+- 빅데이터 분석기사
+- AWS
+<!-- 102px -->
+![aws-certified-cloud-practitioner (1)](https://github.com/user-attachments/assets/f61b0a65-c08c-4d6c-828d-baab63dde215)
+
+
+
 <a href="https://github.com/Ahnkyuwon504"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=Ahnkyuwon504&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="안규원's github stats" /></a>
 <a href="https://github.com/Ahnkyuwon504"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahnkyuwon504&layout=compact&theme=nord&hide_border=true" /></a> 
 
