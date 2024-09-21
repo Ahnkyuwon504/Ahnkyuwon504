@@ -6,12 +6,39 @@
 - 2018-2020 해병대 중위
 - 2021-2024 금융SW 백엔드개발
 - 2023~ (재학)서강대학교 정보통신대학원 AI/데이터사이언스전공
-- 2024~ (재직)LLM엔지니어
+- 2024~ (재직)LLM서비스 연구원
 
 
 ### 관심사
 
-- NLP, LLM, Data Science
+- 데이터사이언스/머신러닝/딥러닝
+- 자연어처리/LLM
+- MLOps
+
+### 스택
+
+`back`
+
+- Java/Python
+
+`front`
+
+- JavaScript
+
+`infra`
+
+- Linux
+- Docker
+- AWS/NCP
+
+`db`
+
+- MySQL/Oracle/MongoDB
+
+`etc`
+
+- git/postman
+
 
 ### 자격증
 
