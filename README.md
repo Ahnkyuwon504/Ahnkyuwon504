@@ -28,7 +28,7 @@
 `infra`
 
 - Linux
-- Docker
+- Docker/Kubernetes
 - AWS/NCP
 
 `db`
