@@ -5,7 +5,7 @@
 - 2014-2018 경희대학교 이과대학 수학과
 - 2018-2020 해병대 중위
 - 2021-2024 금융SW 백엔드개발
-- 2023~ (재학)서강대학교 정보통신대학원 AI/데이터사이언스전공
+- 2023~ (재학)서강대학교 AI/SW대학원 AI/데이터사이언스전공(야간)
 - 2024~ (재직)LLM서비스 연구원
 
 
@@ -17,9 +17,15 @@
 
 ### 스택
 
+`AI`
+
+- RAG/instruction tuning
+- LoRA/Quantization/llama.cpp
+- fastAPI
+
 `back`
 
-- Java/Python
+- Python/Java
 
 `front`
 
@@ -33,7 +39,7 @@
 
 `db`
 
-- MySQL/Oracle/MongoDB
+- Milvus/MongoDB/MySQL/Oracle/MongoDB
 
 `etc`
 
