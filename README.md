@@ -9,6 +9,16 @@
 - 2024~ (재직)LLM서비스 연구원
 
 
+### 수행프로젝트
+
+- 2021.10.-2022.2. 금융SW연구소 연구개발(Java)
+- 2022.3.-2022.6. K은행 솔루션 업그레이드(Java)
+- 2022.7.-2024.8. 일본A사 H카드 솔루션 개발(Java)
+- 2024.8.-
+  - RAG시스템 프로비저닝 SaaS 연구개발(Python)
+  - PI모델 학습 및 서빙(Python)
+
+
 ### 관심사
 
 - 데이터사이언스/머신러닝/딥러닝
@@ -41,10 +51,6 @@
 
 - Milvus/MongoDB/MySQL/Oracle/MongoDB
 
-`etc`
-
-- git/postman
-
 
 ### 자격증
 
@@ -52,9 +58,13 @@
 - 데이터분석준전문가
 - SQL 개발자
 - 빅데이터 분석기사
-- AWS
+- AWS cloud practitioner
+- CKA
+
 <!-- 102px -->
 ![aws-certified-cloud-practitioner (1)](https://github.com/user-attachments/assets/f61b0a65-c08c-4d6c-828d-baab63dde215)
+![cka-certified-kubernetes-administrator](https://github.com/user-attachments/assets/4b8c3173-9b2b-4b13-8c54-a3d8b230004c)
+
 
 
 
