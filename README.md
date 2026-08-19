@@ -2,8 +2,8 @@
 ### 학력
 
 - Ph.D. Student in Artificial Intelligence, Sogang University, 2026~
-- M.S. in Artificial Intelligence, Sogang University, 2023-2025.
-- B.S. in Mathematics, Kyunghee University, Korea, 2014-2017.
+- M.S. in Artificial Intelligence, Sogang University, 2023-2026.
+- B.S. in Mathematics, Kyunghee University, Korea, 2014-2018.
 
 
 ### 이력
