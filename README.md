@@ -1,5 +1,5 @@
 
-### Education History
+### Education
 
 - Ph.D. Student in Artificial Intelligence, Sogang University, 2026~
 - M.S. in Artificial Intelligence, Sogang University, 2023-2026.
@@ -16,6 +16,7 @@
 
 ### Researches
 
+- Breaking Ties in Multi-Constraint Reinforcement Learning: Recovering Discarded Verifier Signal for Instruction Following, Kyuwon Ahn, Taehoon Kim, IEEE Access, vol. 14, 2026년 11월, DOI: 10.1109/ACCESS.2026.3755392 - IEEE.
 - ReSHop: 강화학습 기반 검색 증강 다중 홉 추론을 위한 검색 단계별 과정 보상, 김태훈, 안규원 한국컴퓨터정보학회 하계학술대회 (KSCI2026), 2026년 7월 9일-11일 - 한국컴퓨터정보학회.
 - Speculative RAG의 효율적 초안 생성을 위한 다중 클러스터링과 유사도 기반 샘플링 기법, 안규원, 김영재 한국소프트웨어종합학술대회 (KSC2025), 여수엑스포컨벤션센터, 2025년 12월 16일-19일 - 한국정보과학회.
 
@@ -23,10 +24,10 @@
 ### Projects
 
 - 2025.8.~ MLOps 플랫폼 개발(DevOps)
-  - On-prem 기반 쿠버네티스 플랫폼 프로비저닝 및 최적화
+  - On-prem 쿠버네티스 구축/운영
   - MLOps 플랫폼 개발/운영
   - AI 서비스 개발/운영 (Vision, RAG, Agent AI)
-  - S/W 품질관리
+  - CJ올리브영, 제일제당, ENM, 4DPLEX
 - 2024.8.-2025.8. AI 서비스 개발(Python B/E)
   - RAG 플랫폼 개발
   - 보안솔루션 엔진 딥러닝모델 개발
